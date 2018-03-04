@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StefanieDing/friend-finder.git"
+    "url": "git+https://github.com/Teega/friend-finder"
   },
-  "author": "Stefanie Ding",
+  "author": "Ricky Ortega",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StefanieDing/friend-finder/issues"
+    "url": "https://github.com/Teega/friend-finder/issues"
   },
-  "homepage": "https://github.com/StefanieDing/friend-finder#readme",
+  "homepage": "https://github.com/Teega/friend-finder/blob/master/README.md",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
